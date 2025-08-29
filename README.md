@@ -1,18 +1,35 @@
-## Getting Started
+Project : Xây dựng web tuyển duyệt việc làm 
+# Thành viên : 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+1. Hoàng Vân Quỳnh - 23010836
+2. Đinh Thị Như Quỳnh - 23010844
+3. Nguyễn Bá Đức - 23010765
+   
+# Content [Nội dung]: Project 
+Cấu trúc thư mục
+- `src/` : chứa code Java
+- `bin/` : file biên dịch
+- `.vscode/` : cấu hình VS Code
+  
+Yêu cầu chính:
+- Giao diện <b>Java Spring Boot</b>.
+- Có chức năng ứng tuyển và xét duyệt việc làm 
+- Và các chức năng khác
 
-## Folder Structure
+Cụ thể:
+- Đối với ứng viên:
+•	Tìm kiếm, lọc công việc theo ngành nghề, địa điểm, mức lương.
+•	Đăng ký tài khoản, cập nhật hồ sơ cá nhân, nộp CV trực tuyến.
+•	Theo dõi tình trạng ứng tuyển.
 
-The workspace contains two folders by default, where:
+-	Đối với doanh nghiệp:
+•	Đăng tin tuyển dụng, chỉnh sửa, xóa và quản lý danh sách tin.
+•	Xem và quản lý hồ sơ ứng viên đã ứng tuyển.
+•	Thống kê hiệu quả tuyển dụng.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+-	Đối với quản trị viên:
+•	Quản lý người dùng, doanh nghiệp, tin tuyển dụng.
+•	Duyệt hoặc từ chối các tin đăng không hợp lệ.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
