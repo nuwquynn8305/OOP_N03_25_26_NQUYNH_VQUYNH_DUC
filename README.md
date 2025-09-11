@@ -97,27 +97,9 @@ Truy cập: http://localhost:8080
 
 # 📂 Cấu trúc thư mục (Ví dụ Spring Boot)
 
-webxemphim/
-├─ src/
-│  ├─ main/
-│  │  ├─ java/com/webxemphim/
-│  │  │  ├─ controller/
-│  │  │  ├─ dto/
-│  │  │  ├─ entity/
-│  │  │  ├─ repository/
-│  │  │  ├─ service/
-│  │  │  ├─ security/
-│  │  │  └─ WebXemPhimApplication.java
-│  │  └─ resources/
-│  │     ├─ application.properties
-│  │     ├─ static/
-│  │     └─ templates/    # Thymeleaf
-├─ pom.xml
-├─ README.md
-└─ docs/
-   └─ assets/
-
+webxemphim
    
+
 
 
 
