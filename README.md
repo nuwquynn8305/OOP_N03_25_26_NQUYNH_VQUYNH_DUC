@@ -96,9 +96,7 @@ Truy cập: http://localhost:8080
 ```
 
 ## 🧩 Class Diagram
-
-![image](<img width="772" height="861" alt="image" src="https://github.com/user-attachments/assets/0d8eb28b-c724-477a-b5b4-d3f9a0808a70" />
-)
+![OOP](images/lap-trinh-huong-doi-tuong.png)
 
 
 
