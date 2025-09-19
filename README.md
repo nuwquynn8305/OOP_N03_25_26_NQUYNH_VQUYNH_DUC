@@ -96,5 +96,7 @@ Truy cập: http://localhost:8080
 ```
 
 ## 🧩 Class Diagram
-![image](<img width="756" height="839" alt="image" src="https://github.com/user-attachments/assets/e3db6b53-85ac-4e38-89de-f45c07277bae" />
+![Class Diagram](<img width="756" height="839" alt="image" src="https://github.com/user-attachments/assets/30640c5b-0e07-489e-99de-17cc645e6294" />
 )
+
+
