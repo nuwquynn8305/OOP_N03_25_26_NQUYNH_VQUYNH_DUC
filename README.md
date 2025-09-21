@@ -96,7 +96,9 @@ Truy cập: http://localhost:8080
 ```
 
 ## 🧩 Class Diagram
-![OOP](images/anh)
+![Tên hiển thị](https://github.com/https://github.com/nuwquynn8305/OOP_N03_25_26_NQUYNH_VQUYNH_DUC/blob/d287a475fd1082de70ad984069d0de2e72128355/anh.png.png?raw=true)
+
+
 
 
 
