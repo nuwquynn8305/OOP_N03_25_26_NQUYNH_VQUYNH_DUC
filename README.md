@@ -96,7 +96,8 @@ Truy cập: http://localhost:8080
 ```
 
 ## 🧩 Class Diagram
-![OOP](images/lap-trinh-huong-doi-tuong.png)
+![OOP](images/anh)
+
 
 
 
